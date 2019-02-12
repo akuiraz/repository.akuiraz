@@ -1,4 +1,3 @@
-<a href="repository.akuiraz-0.0.1.zip">repository.akuiraz-0.0.1.zip</a><br>
 kodzi-title = "Example"
 
 kodzi-name = "Seren", url = "nixgates.github.io"

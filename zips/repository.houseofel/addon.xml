@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.houseofel" name="House of El Repo" version="0.0.1" provider-name="House of El">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="House of El Repo">
+            <info compressed="false">http://kodihelp.net/_elfiles/addons.xml</info>
+            <checksum>http://kodihelp.net/_elfiles/addons.xml.md5</checksum>
+            <datadir zip="true">http://kodihelp.net/_elfiles/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>The House of El Repo</summary>
+            <description>Also Includes Some Useful Dependencies etc when things are a bit hit and miss</description>
+            <platform>all</platform>
+    </extension>
+</addon>
