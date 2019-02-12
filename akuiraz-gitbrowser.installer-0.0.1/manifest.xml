@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    akuiraz Batch Installer Manifest File
+    
+-->
+<installer>
+    <addons>
+        <addon>
+            <addon_id>repository.kodibae</addon_id>
+            <username>kodibae</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.exodus</addon_id>
+            <username>kodibae</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.ccloudtv</addon_id>
+            <username>kodibae</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.uiptv</addon_id>
+            <username>kodibae</username>
+        </addon>
+        <addon>
+            <addon_id>script.ccloudtv</addon_id>
+            <username>kodibae</username>
+        </addon>
+        <addon>
+            <addon_id>nixgates.repository</addon_id>
+            <username>nixgates</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.seren</addon_id>
+            <username>nixgates</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.ccloudtv</addon_id>
+            <username>kodibae</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.program.reddit_browser</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.freelivetv.tva</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.ustvnow.tva</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>script.ustvnow.plus.guide</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.videodevil</addon_id>
+            <username>xbmc-adult</username>
+        </addon>
+        <addon>
+            <addon_id>repository.kodiadult</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.adultflix</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.uwc</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+        <addon>
+            <addon_id>plugin.video.9anime</addon_id>
+            <username>DxCx</username>
+        </addon>
+        <addon>
+            <addon_id>service.subtitles.opensubtitles_by_opensubtitles</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+    </addons>
+</installer>
